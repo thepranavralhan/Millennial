@@ -1,10 +1,26 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Nature"
+author: "Pranav"
 categories: documentation
 tags: [documentation,sample]
-image: city-2.jpg
+root_image: nature/sky-1.jpg
+image_second: nature/squirrel-1.jpg
+image_third: nature/tree-1.jpg
+image_fourth: nature/cloud-6.jpg
+image_fifth: nature/canopy-2.jpg
+image_sixth: nature/flower-1.jpg
+image_seventh: nature/canopy-1.jpg
+image_eigth: nature/rainbow-1.jpg
+image_ninth: nature/cloud-4.jpg
+image_tenth: nature/cloud-5.jpg
+image_eleventh: nature/flower-2.jpg
+image_twelfth: nature/flower-3.jpg
+image_thirteenth: nature/cloud-1.jpg
+image_fourteenth: nature/rocks-1.jpg
+image_fifteenth: nature/tree-2.jpg
+image_sixteenth: nature/cloud-2.jpg
+image_seventeenth: nature/cloud-3.jpg
 ---
 
 # Millennial
