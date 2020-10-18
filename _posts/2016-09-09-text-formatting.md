@@ -1,12 +1,19 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Daily"
 author: "Paul Le"
-categories: sample
+categories: documentation
 tags: [sample]
-root_image: arctic-1.jpg
+root_image: city/city-1.jpg
+image_second: city/metro-1.jpg
+image_third: city/city-3.jpg
+image_fourth: city/city-2.jpg
+image_fifth: city/city-bus-1.jpg
+image_sixth: city/city-4.jpg
+image_seventh: city/random-1.jpg
 ---
 
+<!---
 # Markdown Support
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
@@ -155,3 +162,5 @@ More information on Markdown can be found at the following links:
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+
+-->

@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
+title: "Travel"
+author: "Pranav"
+categories: documentation
 tags: [documentation,sample]
-root_image: arctic-4.jpg
+root_image: travel/rann-of-kutch.jpg
+image_second: travel/mandvi-1.jpg
+image_third: travel/kutch-3.jpg
+image_fourth: travel/mcleod-1.jpg
+image_fifth: travel/mcleod-3.jpg
+image_sixth: travel/pondi-1.jpg
 ---
 
+<!---
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
@@ -20,3 +26,4 @@ Not only does Codecademy have many great courses on various web development lang
 ## [Khan Academy](https://www.khanacademy.org/)
 
 A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+-->
