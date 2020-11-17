@@ -16,11 +16,8 @@ image_ninth: nature/cloud-4.jpg
 image_tenth: nature/cloud-5.jpg
 image_eleventh: nature/flower-2.jpg
 image_twelfth: nature/flower-3.jpg
-image_thirteenth: nature/cloud-1.jpg
 image_fourteenth: nature/rocks-1.jpg
 image_fifteenth: nature/tree-2.jpg
-image_sixteenth: nature/cloud-2.jpg
-image_seventeenth: nature/cloud-3.jpg
 ---
 
 <!---

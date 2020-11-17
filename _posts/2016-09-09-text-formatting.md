@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily"
-author: "Paul Le"
+title: "Urban"
+author: "Pranav"
 categories: documentation
 tags: [sample]
 root_image: city/city-1.jpg
